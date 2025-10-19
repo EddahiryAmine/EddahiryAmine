@@ -23,12 +23,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-💡 **IA / Data Science :**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
 
 💡 **Bases de données :**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -52,12 +47,7 @@
 
 ---
 
-### 📈 Statistiques GitHub
 
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddahiryAmine&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddahiryAmine&layout=compact&theme=radical)
-
----
 
 ### 📫 Me contacter
 📧 [eddahiryamine@gmail.com](mailto:eddahiryamine@gmail.com)  
