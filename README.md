@@ -56,5 +56,4 @@
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EddahiryAmine.visitor-badge)
 ⭐ *“Le code, c’est 1 % d’inspiration et 99 % de transpiration.”*
