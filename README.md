@@ -9,7 +9,8 @@
 
 🎓 Élève ingénieur en informatique (MIAGE) — **EMSI Casablanca**  
 💻 Développeur **Full Stack** | **IA / Data Science** | **Microservices**  
-🚀 Recherche d’un **stage PFE** à partir de **février 2026**
+🏢 Actuellement en **stage chez Capgemini**  
+🏅 Certifié **Oracle Java SE 17**
 
 <a href="mailto:eddahiryamine@gmail.com">
   <img src="https://img.shields.io/badge/Email-eddahiryamine%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -23,7 +24,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=600&color=0A66C2&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+Spring+Boot+%26+Angular;FastAPI+%7C+Flutter+%7C+Microservices+Architecture;AI+%2F+Data+Science+Enthusiast;Open+to+PFE+Internship+%E2%80%94+Feb+2026" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=600&color=0A66C2&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+Spring+Boot+%26+Angular;FastAPI+%7C+Flutter+%7C+Microservices+Architecture;Oracle+Certified+Java+SE+17;Currently+Interning+at+Capgemini" alt="Typing SVG"/>
 
 </div>
 
@@ -31,7 +32,8 @@
 
 ## À propos
 Je conçois et développe des solutions **web & mobile** robustes, en combinant des architectures modernes (**microservices**, API sécurisées) et des approches orientées **data/IA**.  
-Mon objectif : livrer des produits **scalables**, **propres** et **maintenables**, avec une vraie valeur métier.
+Actuellement en **stage chez Capgemini**, je continue à renforcer mes compétences en **développement backend**, en **architecture logicielle** et en **conception de solutions maintenables et scalables**.  
+Je suis également **certifié Oracle Java SE 17**, ce qui confirme ma maîtrise des fondamentaux et bonnes pratiques de développement en Java.
 
 ---
 
@@ -83,14 +85,6 @@ Mon objectif : livrer des produits **scalables**, **propres** et **maintenables*
   Gestion roles/auth, planning, ressources, architecture modulaire.
 - 💼 **JobPortal** — Laravel + React  
   Offres, candidatures, messagerie, CRUD avancé et workflow.
-
----
-
-## Ce que je recherche (PFE — Février 2026)
-- Développement **Backend / Full Stack** (Spring Boot / FastAPI)
-- **Microservices**, API Gateway, sécurité JWT, patterns de résilience
-- **Flutter** / **Angular** pour des frontends modernes
-- Projets à dimension **IA / Data** si possible
 
 ---
 
